@@ -1,9 +1,9 @@
 <div align="center">
 
 <a href="https://orexe.pe/">
-  <img src="https://github.com/orexe/.github/blob/main/images/banner-orexe.png" alt="Orexe Banner" style="max-width: 100%; width: 100%; max-width: 800px; height: auto;" />
+  <img src="https://orexe-github-asset.s3.amazonaws.com/images/banner-orexe.png" alt="Orexe Banner" style="max-width: 100%; width: 100%; max-width: 700px; height: auto;" />
 </a>
-<br><br>
+
 
 # Orexe — Make It Possible
 
