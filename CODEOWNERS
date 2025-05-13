@@ -1,0 +1,6 @@
+.github/             @orexe/devops
+CODEOWNERS           @orexe/infra
+src/                 @orexe/developers
+*json                @orexe/developers
+.editorconfig        @orexe/developers
+*                    @aortizorexe
